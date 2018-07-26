@@ -19,10 +19,10 @@ Out of 2612 games a few duplicates are found that match at quite long ply length
 [Variation "Mikenas-Carls, Sicilian variation"]
 [TotalPlyCount "66"]
 
-`1. c4 e6 2. Nc3 Nf6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxe5
+**1. c4 e6 2. Nc3 Nf6 3. e4 c5 4. e5 Ng8 5. Nf3 Nc6 6. d4 cxd4 7. Nxd4 Nxe5
 8. Ndb5 a6 9. Nd6+ Bxd6 10. Qxd6 f6 11. Be3 Ne7 12. Bb6 Nf5 13. Qb4 Qe7 14.
 Qxe7+ Nxe7 15. c5 d5 16. cxd6 Nd5 17. Nxd5 exd5 18. Rc1 Nc6 19. g3 Be6 20.
-Bg2 Kd7 21. O-O Kxd6 22. Rfd1 Rac8 23. Bc5+ Kc7` 24. Bxd5 Bxd5 25. Rc3 Rcd8
+Bg2 Kd7 21. O-O Kxd6 22. Rfd1 Rac8 23. Bc5+ Kc7** 24. Bxd5 Bxd5 25. Rc3 Rcd8
 26. a4 Rd7 27. Be3 Rc8 28. a5 Kd8 29. Bb6+ Ke8 30. Ba7 Be4 31. Re1 Nxa7 32.
 Rce3 Kf8 33. f4 Bf5 0-1
 
